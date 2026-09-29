@@ -1,0 +1,12 @@
+pandas
+numpy
+nltk
+gensim
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+apify-client
+requests
+python-dotenv
+jupyter
